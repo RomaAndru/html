@@ -1,7 +1,7 @@
 # My first project on github
 # My Portfolio
 
-<h1>Welcome to My Website!</h1>
+<center><h1>Welcome to My Website!</h1></center>
 <!-- Add an image of yourself that links to the about page -->
 
 <!-- Add a link to your contact me page here -->
